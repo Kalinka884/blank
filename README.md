@@ -1,5 +1,8 @@
 # blank
-[![Build Status](https://travis-ci.org/delboy1978uk/blank.png?branch=master)](https://travis-ci.org/delboy1978uk/blank) [![Code Coverage](https://scrutinizer-ci.com/g/delboy1978uk/blank/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/blank/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/delboy1978uk/blank/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/delboy1978uk/blank/?branch=master) <br />
+[![Build Status](https://travis-ci.org/Kalinka884/testingBlank.png?branch=master)](https://travis-ci.org/Kalinka884/testingBlank) [![Code Coverage](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master) <br />
+
+in process of testing... 
+
 a blank PHP setup for writing a new Github project with Composer and Packagist complete with travis builds and scrutinizer code coverage & quality analysis
 ##Usage
 Simply clone this repository, delete the .git folder, tweak the composer.json, and do a couple of (case sensitive) find and replaces:
