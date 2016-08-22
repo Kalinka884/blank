@@ -1,6 +1,6 @@
 <?php
 
-namespace Del;
+namespace testingBlank;
 
 class BlankTest extends \Codeception\TestCase\Test
 {
