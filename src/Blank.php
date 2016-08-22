@@ -5,7 +5,7 @@
  * Time: 15:56
  */
 
-namespace Del;
+namespace testingBlank;
 
 
 class Blank

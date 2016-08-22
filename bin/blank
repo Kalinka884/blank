@@ -13,7 +13,7 @@
 
     echo "\n";
 
-    use Del;
+    use testingBlank;
     try {
         $x = new Blank();
         echo $x->blah();
