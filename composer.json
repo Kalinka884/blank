@@ -9,9 +9,7 @@
         }
     ],
     "require": {
-    },
-    "require-dev":{
-        "codeception/codeception":"dev-master"
+	"codeception/codeception":"dev-master"
     },
     "autoload":{
         "psr-4":{
