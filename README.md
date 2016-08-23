@@ -1,5 +1,10 @@
 # blank
-[![Build Status](https://travis-ci.org/Kalinka884/testingBlank.png?branch=master)](https://travis-ci.org/Kalinka884/testingBlank) [![Code Coverage](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master) <br />
+[![Build Status](https://travis-ci.org/Kalinka884/testingBlank.png?branch=master)](https://travis-ci.org/Kalinka884/testingBlank) 
+[![Code Coverage](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master) 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Kalinka884/testingBlank/?branch=master)
+
+
+<br />
 
 in process of testing... 
 
